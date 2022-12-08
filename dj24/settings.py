@@ -29,8 +29,6 @@ ALLOWED_HOSTS = ['*']
 
 # all hosts are allowed.
 
-# Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
